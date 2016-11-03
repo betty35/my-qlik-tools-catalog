@@ -29,8 +29,7 @@ Trellis Chart:			https://github.com/miclae76/trellis-chart
 Stock:					https://github.com/ralfbecher/QlikSense_Extension_StockQuotes		
 Network:				https://github.com/miclae76/network-vis-chart		
 Correlation Matrix:		https://github.com/ralfbecher/QlikSense_Extension_CorrelationMatrix		
-amCharts:				https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall		
-Icon Graph:				https://github.com/ralfbecher/QlikView_Extension_IconGraph		
+amCharts:				https://github.com/NielsLindberg/Qliksense.Extension.amWaterfall				
 Hexagonal Binning:		https://github.com/brianbooden/HexBinning		
 Waterfall Chart:		https://github.com/mindspank/WaterfallChart		
 Map(SVG):				https://github.com/brianwmunz/svgReader-QlikSense		
@@ -57,8 +56,7 @@ Slider:					https://github.com/yianni-ververis/SenseUI-Slider
 R-regression:			https://github.com/nodtvedt/qlik-sense-r-regression-extension			openCPU Server needed		
 Variable Object:		https://github.com/erikwett/qsVariable		
 Input Variable:			https://github.com/LorisLombardo87/sense-input-variable		
-Screen Resize:			https://github.com/mhamano/Qlik-Sense-Screen-Resizer		
-Calendar:				https://github.com/memik/QvCalendar		
+Screen Resize:			https://github.com/mhamano/Qlik-Sense-Screen-Resizer			
 Table Sorting:			https://github.com/nicefella/Leaderboard		
 Ad-hoc:					https://github.com/rvspt/QuickAdhoc-QS		
 Annotation Chart:		https://github.com/yianni-ververis/google-annotation-chart		
