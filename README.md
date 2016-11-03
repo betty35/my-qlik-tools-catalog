@@ -51,9 +51,10 @@ Links to all kinds of Qlik extensions &amp; tools
 <li>Selection Bar:			https://github.com/ClimberAB/ClimberSelectionBar		</li>
 <li>Dropdown List:			https://github.com/yianni-ververis/SenseUI-DropDown		</li>
 <li>Custom Report(export):	https://github.com/ClimberAB/ClimberCustomReport		</li>
-<li>Slider:					https://github.com/iamdv/sense-variable-slider		</li>
+<li>Slider:					https://github.com/iamdv/sense-variable-slider		(not working in IE)</li>
 <li>Slider:					https://github.com/yianni-ververis/SenseUI-Slider		</li>
-<li>R-regression:			https://github.com/nodtvedt/qlik-sense-r-regression-extension			openCPU Server needed	</li>
+<li>Slider:         https://github.com/stefanwalther/sense-range-slider</li>
+<li>R-regression:			https://github.com/nodtvedt/qlik-sense-r-regression-extension			(openCPU Server needed)	</li>
 <li>Calendar:			https://github.com/EliasW/Calendar_DatePicker</li>
 <li>Variable Object:		https://github.com/erikwett/qsVariable		</li>
 <li>Input Variable:			https://github.com/LorisLombardo87/sense-input-variable		</li>
