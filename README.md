@@ -20,7 +20,7 @@ Organization Chart:		https://github.com/yianni-ververis/google-organizational-ch
 Colored Pivot:			https://github.com/iviasensio/PLSmartPivot		
 Dependency Wheel:		https://github.com/ralfbecher/QlikSense_Extension_DependencyWheel		
 Gantt:					https://github.com/ralfbecher/QlikSense_Extension_Timeline		
-Scale:					https://github.com/yianni-ververis/SenseUI-Spectrum		
+Likert Scale:					https://github.com/yianni-ververis/SenseUI-Spectrum		
 Image Grid:				https://github.com/murraygm/qse-mgoimagegrid			
 Sanky Diagram:			https://github.com/xavierlp/SenseSankey		
 Stream Chart:			https://github.com/brianbooden/NVD3StackedArea		
@@ -41,7 +41,7 @@ Population Pyramid:		https://github.com/mwz05github/population-pyramid
 
 
 
-Functions/功能:
+Additional Functions/功能:
 
 Navigation Button:		https://github.com/stefanwalther/sense-navigation		
 Jump Sheet:				https://github.com/alner/qsSimpleKPI		
@@ -53,7 +53,8 @@ Dropdown List:			https://github.com/yianni-ververis/SenseUI-DropDown
 Custom Report(export):	https://github.com/ClimberAB/ClimberCustomReport		
 Slider:					https://github.com/iamdv/sense-variable-slider		
 Slider:					https://github.com/yianni-ververis/SenseUI-Slider		
-R-regression:			https://github.com/nodtvedt/qlik-sense-r-regression-extension			openCPU Server needed		
+R-regression:			https://github.com/nodtvedt/qlik-sense-r-regression-extension			openCPU Server needed	
+Calendar:			https://github.com/EliasW/Calendar_DatePicker
 Variable Object:		https://github.com/erikwett/qsVariable		
 Input Variable:			https://github.com/LorisLombardo87/sense-input-variable		
 Screen Resize:			https://github.com/mhamano/Qlik-Sense-Screen-Resizer			
@@ -66,7 +67,8 @@ Drills:					https://github.com/willieahlers/DrillToDetail
 Reload Button:			https://github.com/mhamano/Qlik-Sense-Reload-Button		
 Date Range Picker:		https://github.com/NOD507/SenseDateRangePicker		
 Smart Reporting:		https://github.com/iviasensio/PL-Smart		
-	
+Button? :			https://github.com/simondachstr/VizlibTextObject	
+Stock Quotes:			https://github.com/ralfbecher/QlikSense_Extension_StockQuotes   (from yahoo)
 
 
 
@@ -102,13 +104,19 @@ REST:					https://github.com/websy85/generic-rest-connector
 
 
 
+Authentication/认证:
+LDAP:				https://github.com/johsund/Qliklogin
+
+
+
+
 
 
 Tools/工具:		
 Map(KML Files)			https://github.com/wuzhong-zhu/GeoCodeMerger---A-java-base-heat-map-polygon-map-helper		
 Mashup Builder:			https://github.com/aalteirac/mdemo		
-
-
+App Inheritance:		https://github.com/mindspank/architeqt
+Tetris('v'):			https://github.com/szaryms/sxBlockRain
 
 
 
@@ -127,9 +135,13 @@ Search with QIX:		https://github.com/websy85/sense-search-components
 Data Concierge:			https://github.com/QlikPreSalesDACH/Qlik-Data-Concierge		
 Mashup Template:		https://github.com/fkabinoff/qlik-lars		
 Authentication:			https://github.com/braathen/qlik-auth		
-
-
+QAP API wrapper:		https://github.com/axisgroup/RxQAP
+Post selection in Json to a url:https://github.com/balexbyrd/sense-jsonPost
 
 
 Tutorials/教程:		
-https://github.com/stefanwalther/qliksense-extension-tutorial		
+https://github.com/stefanwalther/qliksense-extension-tutorial	
+
+
+Examples:
+https://github.com/AptkQlik/SDKConnectionWithSenseTicket
