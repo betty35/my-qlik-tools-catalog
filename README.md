@@ -8,7 +8,7 @@ Links to all kinds of Qlik extensions &amp; tools
 <li>D3:						https://github.com/skokenes/Qlik-Sense-D3-Visualization-Library		</li>
 <li>Funnels:				https://github.com/stefanwalther/sense-funnel-chart		</li>
 <li>Funnels:				https://github.com/balexbyrd/sense-Funnel		</li>
-<li>Text with actions:		https://github.com/simondachstr/VizlibTextObject		</li>
+<li>Text with actions (deleted):		https://github.com/simondachstr/VizlibTextObject		</li>
 <li>Image scatter:			https://github.com/wuzhong-zhu/LogoScatterPlot		</li>
 <li>KPI:					https://github.com/alner/qsSimpleKPI		</li>
 <li>Word Cloud:				https://github.com/cleveranjos/br.com.clever.wordcloud			</li>
@@ -144,8 +144,10 @@ Links to all kinds of Qlik extensions &amp; tools
 </ul>
 
 <h3>Tutorials/教程:		</h3>
-https://github.com/stefanwalther/qliksense-extension-tutorial	
-
+<ul>
+  <li>https://github.com/stefanwalther/qliksense-extension-tutorial	</li>
+  <li>https://help.qlik.com/en-US/sense-developer/June2018/Content/Home-developer.htm</li>
+</ul>
 
 <h3>Examples:</h3>
 https://github.com/AptkQlik/SDKConnectionWithSenseTicket
